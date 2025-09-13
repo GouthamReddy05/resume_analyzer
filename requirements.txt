@@ -1,0 +1,8 @@
+langchain
+langchain-community
+pdfplumber
+ollama
+flask
+google-search-results
+# langchain_ollama
+huggingface-hub
