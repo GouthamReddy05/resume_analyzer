@@ -4,5 +4,9 @@ pdfplumber
 ollama
 flask
 google-search-results
-# langchain_ollama
 huggingface-hub
+pdfminer
+flask_cors
+flask_session
+werkzeug
+uuid
