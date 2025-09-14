@@ -1,4 +1,3 @@
-import ollama
 from huggingface_hub import InferenceClient
 
 
